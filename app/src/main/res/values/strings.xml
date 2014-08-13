@@ -2,9 +2,11 @@
 <resources>
 
     <string name="app_name">Test Policia Nacional</string>
-    <string name="title_section1">Test</string>
-    <string name="title_section2">Estadisticas</string>
-    <string name="title_section3">Compras</string>
+    <string name="title_section1">Test Básicos</string>
+    <string name="title_section2">Test Intermedios</string>
+    <string name="title_section3">Simulacros</string>
+    <string name="title_section4">Estadisticas</string>
+    <string name="title_section5">Compras</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="action_example">Cargando</string>

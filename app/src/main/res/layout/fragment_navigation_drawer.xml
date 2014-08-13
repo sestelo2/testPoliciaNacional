@@ -6,4 +6,5 @@
     android:divider="@android:color/transparent"
     android:dividerHeight="0dp"
     android:background="#ffb2cfd3"
-    tools:context=".NavigationDrawerFragment" />
+    tools:context=".NavigationDrawerFragment"
+    android:id="@+id/ListView"/>
