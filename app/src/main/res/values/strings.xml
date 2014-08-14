@@ -11,5 +11,8 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="action_example">Cargando</string>
     <string name="action_settings">Opciones</string>
+    <string name="title_activity_login">Login</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_registro">Registro</string>
 
 </resources>
